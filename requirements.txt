@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+openpyxl-image-loader
+pytz
+streamlit-float
+streamlit-aggrid
